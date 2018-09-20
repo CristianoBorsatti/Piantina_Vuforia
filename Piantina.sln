@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piantina", "Assembly-CSharp.csproj", "{3F391E94-837D-FA8B-0553-9F245171DAEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piantina", "Assembly-CSharp-Editor.csproj", "{CE0D746A-E4E1-A004-5FCF-7145CAD377F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F391E94-837D-FA8B-0553-9F245171DAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F391E94-837D-FA8B-0553-9F245171DAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F391E94-837D-FA8B-0553-9F245171DAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F391E94-837D-FA8B-0553-9F245171DAEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE0D746A-E4E1-A004-5FCF-7145CAD377F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0D746A-E4E1-A004-5FCF-7145CAD377F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0D746A-E4E1-A004-5FCF-7145CAD377F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0D746A-E4E1-A004-5FCF-7145CAD377F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
